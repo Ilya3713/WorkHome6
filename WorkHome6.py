@@ -152,4 +152,3 @@ for item in lists:
 print(f'Общий вес животных: {all_weight}')
 print(f'Максимальный вес животного: {max_weight}')
 
-#############fv
